@@ -55,7 +55,7 @@ git reset HEAD~1
 
 got to next phrase or word press n
 
-got to previouse phrase or word press 
+got to previouse phrase or word press p
 
 # Show Termianl
 tl
