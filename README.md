@@ -12,3 +12,9 @@ cd
 git clone .....
 
 pip3 install flake8
+
+Now, run vim command.
+
+If you didn't see plugin installation page then press
+
+ESC         shift :          PlugInstall             Enter
