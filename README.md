@@ -1,15 +1,20 @@
 # VIM-config
 This is my personal VIM configuration file.
 Your vim version must be +8.
-After that install git and curl.
 
-For example in ubuntu:
+Install vim; For example on ubuntu::
+
+sudo apt install -y vim
+
+After that, install git and curl.
 
 sudo apt install -y git curl
 
+Finally, run these below commands:
+
 cd
 
-git clone .....
+git clone [git url that you copied]
 
 pip3 install flake8
 
