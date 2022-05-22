@@ -55,3 +55,6 @@ tl
 
 # Terminate without saving all windows
 tall
+
+# Toggle comment 
+gcc
