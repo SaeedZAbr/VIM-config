@@ -16,7 +16,9 @@ Finally, run these below commands:
 
   2. git clone [git url that you copied]
 
-  3. pip3 install flake8
+  3. move file ".vimrc" to your user home directory (mv .vimrc ~/)
+
+  4. pip3 install flake8
 
 Now, run vim command.
 
