@@ -21,3 +21,25 @@ If you didn't see plugin installation page then press
 2. hold shift and then press :
 3. type PlugInstall
 4. press Enter on keyboard
+
+
+
+# Git Tutorial:
+## reset local commit
+git reset HEAD~1
+
+## You can also use the "windows command mode" with navigation keys to change a window's position:
+1.Ctrl w + L - Move the current window to the "far right"
+2.Ctrl w + H - Move the current window to the "far left"
+3.Ctrl w + J - Move the current window to the "very bottom"
+4.Ctrl w + K - Move the current window to the
+
+## find and replace
+:%s/search/replace/gc 
+
+## find only
+/pattern
+
+got to next phrase or word press '#'
+
+
