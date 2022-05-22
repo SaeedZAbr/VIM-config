@@ -18,8 +18,11 @@ Now, run vim command.
 If you didn't see plugin installation page then press
 
 1. press ESC on keyboard
+
 2. hold shift and then press :
+
 3. type PlugInstall
+
 4. press Enter on keyboard
 
 
@@ -30,8 +33,11 @@ git reset HEAD~1
 
 ## You can also use the "windows command mode" with navigation keys to change a window's position:
 1.Ctrl w + L - Move the current window to the "far right"
+
 2.Ctrl w + H - Move the current window to the "far left"
+
 3.Ctrl w + J - Move the current window to the "very bottom"
+
 4.Ctrl w + K - Move the current window to the
 
 ## find and replace
@@ -40,6 +46,11 @@ git reset HEAD~1
 ## find only
 /pattern
 
-got to next phrase or word press '#'
+got to next phrase or word press n
+
+got to previouse phrase or word press 
+
+# Show Termianl
+tl
 
 
