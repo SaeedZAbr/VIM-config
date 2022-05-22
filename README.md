@@ -53,4 +53,5 @@ got to previouse phrase or word press
 # Show Termianl
 tl
 
-
+# Terminate without saving all windows
+tall
