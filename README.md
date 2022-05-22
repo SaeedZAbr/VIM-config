@@ -12,11 +12,11 @@ sudo apt install -y git curl
 
 Finally, run these below commands:
 
-cd
+  cd
 
-git clone [git url that you copied]
+  git clone [git url that you copied]
 
-pip3 install flake8
+  pip3 install flake8
 
 Now, run vim command.
 
