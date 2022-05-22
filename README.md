@@ -17,7 +17,7 @@ Now, run vim command.
 
 If you didn't see plugin installation page then press
 
-1. ESC
-2. shift :
-3. PlugInstall
-4. Enter
+1. press ESC on keyboard
+2. hold shift and then press :
+3. type PlugInstall
+4. press Enter on keyboard
